@@ -1,0 +1,22 @@
+# Ignore Visual Studio files
+.vs/
+*.suo
+*.user
+
+# Ignore Python-specific files
+__pycache__/
+*.pyc
+
+# Ignore dataset and binary files
+*.csv
+*.h5
+
+# Ignore logs
+*.log
+
+# Ignore temporary files
+*.tmp
+*.swp
+
+# Ignore generated files
+*.bak
